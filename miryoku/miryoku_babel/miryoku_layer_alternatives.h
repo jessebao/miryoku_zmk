@@ -42,7 +42,7 @@ U_UND,             U_CUT,             U_CPY,             U_PST,             U_RD
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              U_BTN2,            U_BTN1,            U_BTN3,            U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_MEDIA \
-U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &BT_CLR_ALL,       &kp F19,           &kp F20,            &kp F21,           &kp F24,          \
+U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &bt BT_CLR_ALL,    &kp F19,           &kp F20,            &kp F21,           &kp F24,          \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         &kp SLCK,          U_EP_TOG,          &kp F16,           &kp F17,            &kp F18,           &kp F23,          \
 U_NA,              &kp RALT,          &u_to_U_FUN,       &u_to_U_MEDIA,     U_NA,              &u_out_tog,        &kp F13,           &kp F14,            &kp F15,           &kp F22,          \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &u_bt_sel_0,       &u_bt_sel_1,       &u_bt_sel_2,        U_NP,              U_NP
